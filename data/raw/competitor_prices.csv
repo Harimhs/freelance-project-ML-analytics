@@ -1,26 +1,51 @@
 product_name,price_raw,price,rating,source,category,scraped_at
-Max,198,198.0,4.0,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-Levi's,395,395.0,4.0,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-London Hills,238.,238.0,3.7,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-Sleepynuts,998.,998.0,3.8,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-Sleepynuts,999,999.0,3.8,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-Levi's,395,395.0,4.0,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-LEOTUDE,298,298.0,3.6,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-Max,199,199.0,4.0,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-Sleepynuts,999,999.0,3.8,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-VEL,999,999.0,5.0,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-Van Heusen,497,497.0,4.0,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-LEOTUDE,298,298.0,3.9,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-Men’s Round Neck Plain Oversize T-Shirt – Casual Loose Fit Cotton Wear |,280,280.0,3.8,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-Scott International,249,249.0,3.7,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-Jockey,542,542.0,4.2,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-Generic,498,498.0,3.7,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-Levi's,389,389.0,4.0,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-Jockey,599,599.0,4.2,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-Allen Solly,713,713.0,4.1,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-Amazon Brand - Symbol,348,348.0,4.0,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-LEOTUDE,298,298.0,3.6,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-London Hills,499,499.0,3.7,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-XENOVAURBAN,"1,099",1099.0,4.1,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-HIFZAA,299,299.0,2.5,Amazon India,mens plain tshirt,2026-09-10 22:44:01
-Amazon Brand - Symbol,799,799.0,4.0,Amazon India,mens plain tshirt,2026-09-10 22:44:01
+CLASSIC TEES,349,349.0,4.0,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+AUSK,298,298.0,3.3,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+Fabricorn,975,975.0,4.1,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+Women's Ribbed Polo T-Shirt Stretch Polyester Casual Solid Collared V Neck Short Sleeve Slim Fit Top,230,230.0,5.0,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+Women Jersey Shirt | Graphic Printed Mesh Style V Neck T-Shirt | Cotton Blend Short Sleeve Oversized,249,249.0,,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+CLASSIC TEES,349,349.0,4.0,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+BLACK BUDDY,299,299.0,3.9,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+CLASSIC TEES,399,399.0,4.0,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+Amazon Brand - Symbol,478,478.0,4.0,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+JUNEBERRY,399,399.0,3.7,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+RodZen,349,349.0,3.0,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+CLASSIC TEES,399,399.0,4.0,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+Van Heusen,419,419.0,4.1,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+Max,199,199.0,4.2,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+Jockey,545,545.0,4.1,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+FLEXIMAA,599,599.0,3.6,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+FLEXIMAA,299,299.0,3.9,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+Amazon Brand - Symbol,478,478.0,4.0,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+Generic,299,299.0,3.8,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+Fabricorn,425,425.0,3.7,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+JUNEBERRY,399,399.0,3.7,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+UZARUS,499,499.0,3.3,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+Jockey,649,649.0,4.2,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+JUNEBERRY,399,399.0,3.7,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+UZARUS,399,399.0,3.6,Amazon India,womens v neck tshirt,2026-09-11 22:46:10
+Max,199,199.0,3.9,Amazon India,womens black tshirt,2026-09-11 22:46:21
+Allen Solly,389,389.0,4.1,Amazon India,womens black tshirt,2026-09-11 22:46:21
+Women's Cotton T-Shirt | Over Sized Fit Half Sleeve | 100% Cotton Women T Shirt | Aesthetic Summer W,284,284.0,3.4,Amazon India,womens black tshirt,2026-09-11 22:46:21
+Dream Beauty Fashion,215,215.0,3.7,Amazon India,womens black tshirt,2026-09-11 22:46:21
+CLASSIC TEES,349,349.0,4.0,Amazon India,womens black tshirt,2026-09-11 22:46:21
+TQH,279,279.0,3.8,Amazon India,womens black tshirt,2026-09-11 22:46:21
+Dream Beauty Fashion,244,244.0,3.8,Amazon India,womens black tshirt,2026-09-11 22:46:21
+TWIN BIRDS,299,299.0,4.2,Amazon India,womens black tshirt,2026-09-11 22:46:21
+Dream Beauty Fashion,210,210.0,4.0,Amazon India,womens black tshirt,2026-09-11 22:46:21
+Dream Beauty Fashion,236,236.0,4.0,Amazon India,womens black tshirt,2026-09-11 22:46:21
+JUNEBERRY,429,429.0,3.9,Amazon India,womens black tshirt,2026-09-11 22:46:21
+London Hills,349,349.0,3.9,Amazon India,womens black tshirt,2026-09-11 22:46:21
+Fabricorn,395,395.0,4.0,Amazon India,womens black tshirt,2026-09-11 22:46:21
+Dream Beauty Fashion,241,241.0,3.8,Amazon India,womens black tshirt,2026-09-11 22:46:21
+Dream Beauty Fashion,234,234.0,3.6,Amazon India,womens black tshirt,2026-09-11 22:46:21
+Women's Ribbed Polo T-Shirt Stretch Polyester Casual Solid Collared V Neck Short Sleeve Slim Fit Top,230,230.0,5.0,Amazon India,womens black tshirt,2026-09-11 22:46:21
+Dream Beauty Fashion,244,244.0,4.0,Amazon India,womens black tshirt,2026-09-11 22:46:21
+"Women Ribbed Tops Combo for Women & Girls | Half Sleeve T Shirt, Sleeveless Crop Top & Tank Top | Ca",299,299.0,5.0,Amazon India,womens black tshirt,2026-09-11 22:46:21
+AUSK,298,298.0,3.6,Amazon India,womens black tshirt,2026-09-11 22:46:21
+AUSK,298,298.0,3.6,Amazon India,womens black tshirt,2026-09-11 22:46:21
+Round Neck T-Shirt Top for Women | Combed Bio-Washed Ring Spun Cotton | Plain | Short Sleeves,369,369.0,4.4,Amazon India,womens black tshirt,2026-09-11 22:46:21
+Dream Beauty Fashion,212,212.0,3.8,Amazon India,womens black tshirt,2026-09-11 22:46:21
+Dream Beauty Fashion,236,236.0,3.7,Amazon India,womens black tshirt,2026-09-11 22:46:21
+Dream Beauty Fashion,226,226.0,3.5,Amazon India,womens black tshirt,2026-09-11 22:46:21
+Dream Beauty Fashion,216,216.0,3.8,Amazon India,womens black tshirt,2026-09-11 22:46:21
